@@ -55,6 +55,8 @@ These challenges have allowed me to gain experience and skills in effective comp
 
 
 ![](https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/light_card.svg)
+<br>
+
 ![](https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/rating.svg)
+
