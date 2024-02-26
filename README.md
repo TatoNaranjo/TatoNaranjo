@@ -17,7 +17,7 @@
 
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatoNaranjo&layout=compact&theme=holi" />
 
-# What I am currently doing
+# ¿What I am currently doing?
 - 🔭 I’m currently studying systems engineering in the University of Cundinamarca
 - 🌱 I’m currently learning algorithms from competitive programming, Front-End with Astro And Back-End With Go
 - 👯 I’m looking to collaborate in any project or company that requires my help and my constant willingness to help.
@@ -43,7 +43,7 @@
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-### EN:
+
 I love algorithms and since I entered college, they have been a constant in my development as a programmer. Throughout my journey as a student and developer, I have observed that many programmers focus on creating new tools without optimizing existing ones for the consumer. This is where competitive programming comes into play: it is my personal quest to generate effective and optimal solutions to everyday challenges, both as an individual and as a developer.  
 
 My persistence and dedication are reflected in my constant participation in programming competitions. I have been part of competitions organized by different universities in Latin America, such as the RPC (Competitive Programming Network), achieving positions that are above average. In addition, I had the privilege of participating in a regional marathon of the ICPC (International Collegiate Programming League) and I have won several internal marathons at my university. On a regular basis, I am an active part of the tournaments organized in Codeforces, where I have demonstrated my skills and competencies in problem solving.  
