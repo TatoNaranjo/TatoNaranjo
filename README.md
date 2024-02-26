@@ -42,8 +42,9 @@
 ## My path as a Competitive Programmer
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+<a href = "https://codeforces.com/profile/TatoNaranjo"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href = "https://www.hackerrank.com/profile/TatoNaranjo"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
 
 
 I love algorithms and since I entered college, they have been a constant in my development as a programmer. Throughout my journey as a student and developer, I have observed that many programmers focus on creating new tools without optimizing existing ones for the consumer. This is where competitive programming comes into play: it is my personal quest to generate effective and optimal solutions to everyday challenges, both as an individual and as a developer.  
