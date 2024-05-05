@@ -19,7 +19,7 @@
 
 # ¿What I am currently doing?
 - 🔭 I’m currently studying systems engineering in the University of Cundinamarca
-- 🌱 I’m currently learning algorithms from competitive programming, Front-End with Astro And Back-End With Go
+- 🌱 I’m currently learning algorithms from competitive programming, Front-End with Astro/React And Back-End With Go/NodeJS.
 - 👯 I’m looking to collaborate in any project or company that requires my help and my constant willingness to help.
 - 💬 Ask me about my work methodology, my interests and what drives me to be a good solution developer.
 - 📫 How to reach me:
