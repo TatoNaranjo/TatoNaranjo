@@ -23,7 +23,6 @@
 - 👯 I’m looking to collaborate in any project or company that requires my help and my constant willingness to help.
 - 💬 Ask me about my work methodology, my interests and what drives me to be a good solution developer.
 - 📫 How to reach me:
-  - Telephone Number:+57 3143109118
   - E-Mail: naranjosa2004@gmail.com
 - ⚡ Fun fact: I love any kind of music and coffee, they are two things I can't miss whenever I'm programming.
 
