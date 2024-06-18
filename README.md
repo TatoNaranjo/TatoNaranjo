@@ -18,13 +18,16 @@
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatoNaranjo&layout=compact&theme=holi" />
 
 # ¿What I am currently doing?
-- 🔭 I’m currently studying systems engineering in the University of Cundinamarca
-- 🌱 I’m currently learning algorithms from competitive programming, Front-End with Astro/React And Back-End With Go/NodeJS.
-- 👯 I’m looking to collaborate in any project or company that requires my help and my constant willingness to help.
-- 💬 Ask me about my work methodology, my interests and what drives me to be a good solution developer.
-- 📫 How to reach me:
-  - E-Mail: naranjosa2004@gmail.com
-- ⚡ Fun fact: I love any kind of music and coffee, they are two things I can't miss whenever I'm programming.
+I'm a Computer and Systems Engineering student and Full Stack Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
+
+## Systems Engineering
+I am currently doing my academic training as a Systems Engineer at the University of Cundinamarca, where I have acquired skills in various aspects of software development, including:
+- Development and consumption of APIs with REST architecture with Express.
+- Implementation of applications under the object-oriented programming paradigm.
+- Creation of reusable Front-End components for applications.
+- Implementation of continuous integration and continuous deployment processes.
+- Source code control management and versioning in each project.
+
 
 ## My Workspace:
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
@@ -35,10 +38,14 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-## My path as a Competitive Programmer
+<details>
+<summary>
+<h2> My path as a Competitive Programmer </h2>
+</summary>
+
+  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <a href = "https://codeforces.com/profile/TatoNaranjo"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
@@ -58,4 +65,5 @@ These challenges have allowed me to gain experience and skills in effective comp
 
 ![](https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/rating.svg)
+</details>
 
