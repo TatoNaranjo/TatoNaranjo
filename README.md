@@ -37,6 +37,14 @@ I am currently doing my academic training as a Systems Engineer at the Universit
 - Implementation of continuous integration and continuous deployment processes.
 - Source code control management and versioning in each project.
 
+## Oracle Next Education
+In addition to my formal education, I am currently part of the Oracle Next Education (ONE) program with Alura Latam, where i choose the Front-End roadmap specialization. This comprehensive course is enhancing my skills and knowledge in various areas such as:
+
+- Advanced programming techniques and best practices.
+- In-depth understanding of software development lifecycle.
+- Hands-on projects that simulate real-world scenarios.
+- Collaboration with a community of learners and professionals to solve complex challenges using platforms as Discord or Trello.
+
 
 ## My Workspace:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
