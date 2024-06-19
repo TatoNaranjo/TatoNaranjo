@@ -25,7 +25,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatoNaranjo&layout=compact&theme=holi" />
 
 # ¿What I am currently doing?
 I'm a Computer and Systems Engineering student and Full Stack Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
