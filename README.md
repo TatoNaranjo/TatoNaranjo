@@ -4,7 +4,7 @@ I'm a Computer and Systems Engineering student and Full Stack Programmer with ex
 
 > "Programming is not about typing, it's about thinking." - Rich Hickey
 
-# What Are The Tools I Use On A Daily Basis?
+# My Tools On A Daily Basis
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,7 +29,7 @@ I'm a Computer and Systems Engineering student and Full Stack Programmer with ex
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-# What Am I Currently Doing?
+# Currently, I'm Studying at:
 
 ## Systems Engineering
 I am currently doing my academic training as a Systems Engineer at the University of Cundinamarca, where I have acquired skills in various aspects of software development, including:
