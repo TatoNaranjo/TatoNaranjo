@@ -1,4 +1,7 @@
 # TatoNaranjo
+
+I'm a Computer and Systems Engineering student and Full Stack Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
+
 > "Programming is not about typing, it's about thinking." - Rich Hickey
 
 # What Are The Tools I Use On A Daily Basis?
@@ -27,7 +30,6 @@
 
 
 # What Am I Currently Doing?
-I'm a Computer and Systems Engineering student and Full Stack Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
 
 ## Systems Engineering
 I am currently doing my academic training as a Systems Engineer at the University of Cundinamarca, where I have acquired skills in various aspects of software development, including:
