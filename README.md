@@ -1,7 +1,7 @@
 # TatoNaranjo
 > "Programming is not about typing, it's about thinking." - Rich Hickey
 
-# ¿What tools have I worked with?
+# What Are The Tools I Use On A Daily Basis?
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +26,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-# ¿What I am currently doing?
+# What Am I Currently Doing?
 I'm a Computer and Systems Engineering student and Full Stack Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
 
 ## Systems Engineering
@@ -46,7 +46,7 @@ In addition to my formal education, I am currently part of the Oracle Next Educa
 - Collaboration with a community of learners and professionals to solve complex challenges using platforms as Discord or Trello.
 
 
-## My Workspace:
+# My Workspace:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
@@ -64,7 +64,7 @@ In addition to my formal education, I am currently part of the Oracle Next Educa
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## My path as a Competitive Programmer 
+## My Path As A Competitive Programmer 
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
