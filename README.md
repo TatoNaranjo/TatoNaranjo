@@ -2,6 +2,8 @@
 
 I'm a Computer and Systems Engineering student and Full Stack Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
 
+[![My Blog (ES) - LogDev](https://img.shields.io/badge/My_Blog_(ES)-LogDev-1F1F2F?style=for-the-badge&logo=Buy+Me+A+Coffee)](https://logdev.netlify.app/)
+
 > "Programming is not about typing, it's about thinking." - Rich Hickey
 
 # My Tools On A Daily Basis
