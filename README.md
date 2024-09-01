@@ -36,9 +36,11 @@ I'm a Computer and Systems Engineer and Full Stack Programmer with experience in
 # Currently, I'm:
 
 ## Systems Engineering
-I am currently doing my academic training as a Systems Engineer at the University of Cundinamarca, where I have acquired skills in various aspects of software development, including:
+I am in academic training as a Systems Engineer at the University of Cundinamarca. For more than two years, I have developed a solid set of skills that encompass both systems development and front-end specialization:
 - Development and consumption of APIs with REST architecture with Express.
-- Implementation of applications under the object-oriented programming paradigm.
+- Experience with React.js to build several interactive SPAs.
+- Implementation of optimization techniques to improve the speed of a web application and User Experience.
+- Commitment to constant updating in new technologies and web development trends.
 - Creation of reusable Front-End components for applications.
 - Implementation of continuous integration and continuous deployment processes.
 - Source code control management and versioning in each project.
