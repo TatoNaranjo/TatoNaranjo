@@ -2,9 +2,15 @@
 
 I'm a Computer and Systems Engineer and Full Stack Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
 
-**Check Out My Blog (In Spanish)**
+## My Blog
+LogDev is an space where you can find articles about things i want to teach about, like algorithms, linux's distro configurations and front-end tools & tips.
 
-[![My Blog (ES) - LogDev](https://img.shields.io/badge/My_Blog_(ES)-LogDev-1F1F2F?style=for-the-badge&logo=Buy+Me+A+Coffee)](https://logdev.netlify.app/)
+[![LogDev](https://img.shields.io/badge/LogDev-1f1f1f?style=for-the-badge&logo=Buy+Me+A+Coffee)](https://logdev.netlify.app/)
+
+## My Notes Repo
+Throughout my life, I have realized that my way of learning things has always been through writing and practice. Combining this method and my curiosity to learn something new every day, I came up with the idea of capturing my knowledge to help people who require this digital brain, as well as to resort to it if I ever need it.
+
+[![Las Notas De Tato](https://img.shields.io/badge/Las_Notas_De_Tato-df8e1d?style=for-the-badge&logo=Obsidian)](https://)
 
 > "Programming is not about typing, it's about thinking." - Rich Hickey
 
