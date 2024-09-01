@@ -1,6 +1,8 @@
 # TatoNaranjo
 
-I'm a Computer and Systems Engineering student and Full Stack Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
+I'm a Computer and Systems Engineer and Full Stack Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
+
+**Check Out My Blog (In Spanish)**
 
 [![My Blog (ES) - LogDev](https://img.shields.io/badge/My_Blog_(ES)-LogDev-1F1F2F?style=for-the-badge&logo=Buy+Me+A+Coffee)](https://logdev.netlify.app/)
 
@@ -31,7 +33,7 @@ I'm a Computer and Systems Engineering student and Full Stack Programmer with ex
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-# Currently, I'm Studying at:
+# Currently, I'm:
 
 ## Systems Engineering
 I am currently doing my academic training as a Systems Engineer at the University of Cundinamarca, where I have acquired skills in various aspects of software development, including:
@@ -41,13 +43,17 @@ I am currently doing my academic training as a Systems Engineer at the Universit
 - Implementation of continuous integration and continuous deployment processes.
 - Source code control management and versioning in each project.
 
-## Oracle Next Education
-In addition to my formal education, I am currently part of the Oracle Next Education (ONE) program with Alura Latam, where i choose the Front-End roadmap specialization. This comprehensive course is enhancing my skills and knowledge in various areas such as:
+## Oracle Next Education Graduated
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-- Advanced programming techniques and best practices.
-- In-depth understanding of software development lifecycle.
+In addition to my formal education, I have successfully completed the Oracle Next Education (ONE) program in collaboration with Alura Latam, specializing in the Front-End roadmap. This comprehensive program has significantly boosted my skills and knowledge in several areas:
+
+- Proficiency in HTML5, CSS3 and modern JavaScript.
+- Frameworks and front-end libraries (e.g. React).
+- Responsive design and web accessibility
+- Version control with Git and GitHub
 - Hands-on projects that simulate real-world scenarios.
-- Collaboration with a community of learners and professionals to solve complex challenges using platforms as Discord or Trello.
+- Development of a robust portfolio with functional web applications. 
 
 
 # My Workspace:
