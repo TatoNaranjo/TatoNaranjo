@@ -10,7 +10,7 @@ LogDev is an space where you can find articles about things i want to teach abou
 ## My Notes Repo
 Throughout my life, I have realized that my way of learning things has always been through writing and practice. Combining this method and my curiosity to learn something new every day, I came up with the idea of capturing my knowledge to help people who require this digital brain, as well as to resort to it if I ever need it.
 
-[![Las Notas De Tato](https://img.shields.io/badge/Las_Notas_De_Tato-df8e1d?style=for-the-badge&logo=Obsidian)](https://)
+[![Las Notas De Tato](https://img.shields.io/badge/Las_Notas_De_Tato-df8e1d?style=for-the-badge&logo=Obsidian)](https://github.com/TatoNaranjo/LasNotasDeTato)
 
 > "Programming is not about typing, it's about thinking." - Rich Hickey
 
