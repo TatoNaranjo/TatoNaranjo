@@ -40,7 +40,7 @@ Throughout my life, I have realized that my way of learning things has always be
 ## My Dotfiles
 Currently, i'm using Arch Linux as my principal and unique Operative System, so... if you want, you can checkout my config files at:
 
-[![My Arch Dotfiles](https://img.shields.io/badge/My_Arch_Dotfiles-2286BB?style=for-the-badge&logo=Arch+Linux)](https://github.com/TatoNaranjo/arch-dotfiles)
+[![Arch Dotfiles](https://img.shields.io/badge/Arch_Dotfiles-2286BB?style=for-the-badge&logo=Arch+Linux)](https://github.com/TatoNaranjo/arch-dotfiles)
 
 # Currently, I'm:
 
