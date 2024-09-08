@@ -3,7 +3,7 @@
 I'm a Computer and Systems Engineer and Front-End Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
 
 ## My Blog (ES)
-LogDev is an space where you can find articles about things i want to teach about, like algorithms, linux's distro configurations and front-end tools & tips.
+LogDev is my personal project, a blog developed with React.js and Astro.js, where I combine my passion for programming and free software. Here I share content ranging from algorithm theory and front-end development, to specific configurations for Linux enthusiasts. I invite you to join me and explore new horizons in technology. 🌍💡
 
 [![LogDev](https://img.shields.io/badge/LogDev-1f1f1f?style=for-the-badge&logo=Buy+Me+A+Coffee)](https://logdev.netlify.app/)
 
