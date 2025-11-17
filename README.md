@@ -1,111 +1,107 @@
-# TatoNaranjo
+# Hi there, I'm Tato Naranjo! 👋
 
-I'm a Computer and Systems Engineer and Front-End Programmer with experience in agile methodologies. Proficient in technologies such as JavaScript, Python, React, Node.js, and SQL/NoSQL databases. Proven track record in efficient problem solving, with demonstrated ability to quickly adapt to new technologies and development environments. I have contributed to the success of innovative projects in collaborative teams, delivering scalable and high quality solutions. Motivated to bring my experience and technical skills to challenging and dynamic projects.
+### Systems Engineer | Full Stack Developer | Competitive Programmer
 
-## My Blog (ES)
-LogDev is my personal project, a blog developed with React.js and Astro.js, where I combine my passion for programming and free software. Here I share content ranging from algorithm theory and front-end development, to specific configurations for Linux enthusiasts. I invite you to join me and explore new horizons in technology. 🌍💡
+> *"Programming is not about typing, it's about thinking."* - Rich Hickey
 
-[![LogDev](https://img.shields.io/badge/LogDev-1f1f1f?style=for-the-badge&logo=Buy+Me+A+Coffee)](https://logdev.netlify.app/)
+I am a **Systems Engineer** with a researcher's mindset, passionate about building scalable web applications and solving complex algorithmic problems. My background combines strong theoretical foundations in Computer Science with practical experience in modern Front-End development and Agile methodologies.
 
-## My Notes Repo (ES)
-Throughout my life, I have realized that my way of learning things has always been through writing and practice. Combining this method and my curiosity to learn something new every day, I came up with the idea of capturing my knowledge to help people who require this digital brain, as well as to resort to it if I ever need it.
+Currently based in Colombia 🇨🇴, I am an **Arch Linux** enthusiast and a **Neovim** user, always looking to optimize workflows and deliver high-quality, efficient code.
 
-[![Las Notas De Tato](https://img.shields.io/badge/Las_Notas_De_Tato-df8e1d?style=for-the-badge&logo=Obsidian)](https://github.com/TatoNaranjo/LasNotasDeTato)
+---
 
-> "Programming is not about typing, it's about thinking." - Rich Hickey
+## 🛠️ Tech Stack & Tools
 
-# My Stack
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+I specialize in the JavaScript ecosystem, but my engineering background allows me to adapt to any technology stack.
+
+### **Front-End & UI**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### **Back-End & Languages**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-## My Dotfiles
-Currently, i'm using Arch Linux as my principal and unique Operative System, so... if you want, you can checkout my config files at:
+---
 
+## 🚀 Featured Projects
+
+### 🌐 LogDev (My Blog)
+LogDev is my personal corner on the web, built with **React.js** and **Astro.js**. It combines my passion for software engineering and open source. I write about algorithm theory, front-end development, and Linux configurations.
+<br>
+[![LogDev](https://img.shields.io/badge/Visit_LogDev-1f1f1f?style=for-the-badge&logo=Buy+Me+A+Coffee)](https://logdev.netlify.app/)
+
+### 🧠 Las Notas De Tato (Second Brain)
+I believe the best way to master a concept is to write it down. This repository is my "digital brain," a collection of documentation and notes that I've curated throughout my engineering journey. It's an open resource for anyone learning to code.
+<br>
+[![Las Notas De Tato](https://img.shields.io/badge/View_Notes-df8e1d?style=for-the-badge&logo=Obsidian)](https://github.com/TatoNaranjo/LasNotasDeTato)
+
+### ⚙️ Arch Dotfiles
+My development environment is my sanctuary. I use Arch Linux as my daily driver. You can check out my ricing and configuration files here:
+<br>
 [![Arch Dotfiles](https://img.shields.io/badge/Arch_Dotfiles-2286BB?style=for-the-badge&logo=Arch+Linux)](https://github.com/TatoNaranjo/arch-dotfiles)
 
-# Currently, I'm:
+---
 
-## Systems Engineering
-I am in academic training as a Systems Engineer at the University of Cundinamarca. For more than two years, I have developed a solid set of skills that encompass both systems development and front-end specialization:
-- Development and consumption of APIs with REST architecture with Express.
-- Experience with React.js to build several interactive SPAs.
-- Implementation of optimization techniques to improve the speed of a web application and User Experience.
-- Commitment to constant updating in new technologies and web development trends.
-- Creation of reusable Front-End components for applications.
-- Implementation of continuous integration and continuous deployment processes.
-- Source code control management and versioning in each project.
+## 🎓 Education & Background
 
-## Oracle Next Education Graduated
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### **B.S. in Systems Engineering**
+*University of Cundinamarca | Graduated*
+Solid academic training with a focus on software architecture, research, and systems development.
+* **Key Skills:** REST API architecture, Scalable Front-End components, CI/CD implementation, and complex problem solving.
+* **Focus:** Developed a research-driven approach to software engineering.
 
-In addition to my formal education, I have successfully completed the Oracle Next Education (ONE) program in collaboration with Alura Latam, specializing in the Front-End roadmap. This comprehensive program has significantly boosted my skills and knowledge in several areas:
+### **Front-End Specialization**
+*Oracle Next Education (ONE) - Alura Latam*
+Intensive training program focused on modern web development standards, including React, responsive design, and web accessibility.
 
-- Proficiency in HTML5, CSS3 and modern JavaScript.
-- Frameworks and front-end libraries (e.g. React).
-- Responsive design and web accessibility
-- Version control with Git and GitHub
-- Hands-on projects that simulate real-world scenarios.
-- Development of a robust portfolio with functional web applications. 
+---
 
+## 🏆 Competitive Programming
 
-# My Workspace:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+I don't just write code; I solve problems. Competitive programming has been a constant in my career, sharpening my ability to write optimized and efficient algorithms under pressure.
 
-## My Path As A Competitive Programmer 
+* **ICPC:** Participant in the International Collegiate Programming Contest (Regional & Local).
+* **RPC:** Active participant in the Competitive Programming Network (Red de Programación Competitiva).
+* **Codeforces:** Regular problem solver.
 
+<div align="center">
+<a href="https://codeforces.com/profile/TatoNaranjo"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/TatoNaranjo"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</div>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<a href = "https://codeforces.com/profile/TatoNaranjo"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-<a href = "https://www.hackerrank.com/profile/TatoNaranjo"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-
-
-
-I love algorithms and since I entered college, they have been a constant in my development as a programmer. Throughout my journey as a student and developer, I have observed that many programmers focus on creating new tools without optimizing existing ones for the consumer. This is where competitive programming comes into play: it is my personal quest to generate effective and optimal solutions to everyday challenges, both as an individual and as a developer.  
-
-My persistence and dedication are reflected in my constant participation in programming competitions. I have been part of competitions organized by different universities in Latin America, such as the RPC (Competitive Programming Network), achieving positions that are above average. In addition, I had the privilege of participating in a regional marathon of the ICPC (International Collegiate Programming League) and I have won several internal marathons at my university. On a regular basis, I am an active part of the tournaments organized in Codeforces, where I have demonstrated my skills and competencies in problem solving.  
-
-These challenges have allowed me to gain experience and skills in effective complex problem solving, in addition to developing an analytical and strategic mindset that I apply in every project I am involved in. My Codeforces profile provides a detailed overview of my achievements and participation in programming competitions.  
-
-
-![](https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 <br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+</div>
 
-![](https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/TatoNaranjo/cf-stats/main/output/rating.svg)
+---
 
+<div align="center">
 
+### Let's Connect!
+Open to remote opportunities worldwide 🌍
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatonaranjo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
