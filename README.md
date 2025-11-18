@@ -47,17 +47,20 @@ I specialize in the JavaScript ecosystem, but my engineering background allows m
 
 ### 🌐 LogDev (My Blog)
 LogDev is my personal corner on the web, built with **React.js** and **Astro.js**. It combines my passion for software engineering and open source. I write about algorithm theory, front-end development, and Linux configurations.
-<br>
+
+
 [![LogDev](https://img.shields.io/badge/Visit_LogDev-1f1f1f?style=for-the-badge&logo=Buy+Me+A+Coffee)](https://logdev.netlify.app/)
 
 ### 🧠 Las Notas De Tato (Second Brain)
 I believe the best way to master a concept is to write it down. This repository is my "digital brain," a collection of documentation and notes that I've curated throughout my engineering journey. It's an open resource for anyone learning to code.
-<br>
+
+
 [![Las Notas De Tato](https://img.shields.io/badge/View_Notes-df8e1d?style=for-the-badge&logo=Obsidian)](https://github.com/TatoNaranjo/LasNotasDeTato)
 
 ### ⚙️ Arch Dotfiles
 My development environment is my sanctuary. I use Arch Linux as my daily driver. You can check out my ricing and configuration files here:
-<br>
+
+
 [![Arch Dotfiles](https://img.shields.io/badge/Arch_Dotfiles-2286BB?style=for-the-badge&logo=Arch+Linux)](https://github.com/TatoNaranjo/arch-dotfiles)
 
 ---
