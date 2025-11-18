@@ -105,6 +105,6 @@ I don't just write code; I solve problems. Competitive programming has been a co
 Open to remote opportunities worldwide 🌍
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatonaranjo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itstatonaranjo@proton.me)
 
 </div>
